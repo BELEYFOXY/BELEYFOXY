@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="up" alt="" height="190px" src="./src/studio ghibli leaf GIF.gif">
+<img align="up" alt="" height="190px" src="./src/bannerneycat.gif">
 
 #
 
