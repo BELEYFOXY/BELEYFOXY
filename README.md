@@ -12,12 +12,12 @@ Me chamo BELEY, Sou apaixonado por tecnologia, curioso sobre Hardware e esse é 
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Me!!</h3>
            
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="C++" 
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
@@ -27,10 +27,6 @@ Me chamo BELEY, Sou apaixonado por tecnologia, curioso sobre Hardware e esse é 
 <br/>
 
 <h3 align="left">GitHub Stats</h3>
-
-
-
-
 
 </p>
 
