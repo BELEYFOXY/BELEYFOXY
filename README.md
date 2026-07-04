@@ -4,13 +4,15 @@
   </a>
 </div>
 
+<img align="up" alt="" height="190px" src="./src/studio ghibli leaf GIF.gif">
+
 #
 
 Me chamo BELEY, Sou apaixonado por tecnologia, curioso sobre Hardware e esse é meu canal no YouTube "[BELEYFOXY](https://www.youtube.com/@BELEYFOXY)".
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./src/studio ghibli running GIF.gif">
 
 <h3 align="left">Me!!</h3>
            
