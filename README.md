@@ -12,7 +12,7 @@ Me chamo BELEY, Sou apaixonado por tecnologia, curioso sobre Hardware e esse é 
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-
+<h3 align="left">Connect with me!</h3>
            
 <img 
     align="left" 
